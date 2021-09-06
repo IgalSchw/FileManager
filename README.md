@@ -11,5 +11,5 @@ In addition when you download you can go to this path **_\FileManager\FileManage
 1) create shortcut to FileManager.exe (right click and select create shortcut).
 2) right click on shortcut choose properties.
 3) in Target write default path or drive for example "C:\Users\Igal\Desktop\GeekBrains C# Faculty\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe" D:\
-This will pass arguments to progrm by default D:\ drive (not necceseray the programm can find default drive)
-
+This will pass arguments to progrm by default D:\ drive (not necceseray the programm can find default drive).
+4) When you exit from the program the program will be save <ins>last path and paging</ins>.
