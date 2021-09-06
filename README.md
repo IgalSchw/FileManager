@@ -5,4 +5,11 @@ The project simulates a file management environment you can create folders and f
 
 ## Download and use him
 You can download source project and contibute to code community).
-In addition when you download you can go to this path **_\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe_ **
+In addition when you download you can go to this path **_\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe_** and run .exe file.
+
+### Instruction
+1) create shortcut to FileManager.exe (right click and select create shortcut).
+2) right click on shortcut choose properties.
+3) in Target write default path or drive for example "C:\Users\Igal\Desktop\GeekBrains C# Faculty\FileManager\FileManager\FileManager\bin\Debug\netcoreapp3.1\FileManager.exe" D:\
+This will pass arguments to progrm by default D:\ drive (not necceseray the programm can find default drive)
+
