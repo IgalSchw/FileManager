@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Igal\\Desktop\\FileManager\\FileManager\\FileManager.csproj": {}
+    "C:\\Users\\Igal\\Desktop\\GeekBrains C# Faculty\\FileManager\\FileManager\\FileManager\\FileManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Igal\\Desktop\\FileManager\\FileManager\\FileManager.csproj": {
+    "C:\\Users\\Igal\\Desktop\\GeekBrains C# Faculty\\FileManager\\FileManager\\FileManager\\FileManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Igal\\Desktop\\FileManager\\FileManager\\FileManager.csproj",
+        "projectUniqueName": "C:\\Users\\Igal\\Desktop\\GeekBrains C# Faculty\\FileManager\\FileManager\\FileManager\\FileManager.csproj",
         "projectName": "FileManager",
-        "projectPath": "C:\\Users\\Igal\\Desktop\\FileManager\\FileManager\\FileManager.csproj",
+        "projectPath": "C:\\Users\\Igal\\Desktop\\GeekBrains C# Faculty\\FileManager\\FileManager\\FileManager\\FileManager.csproj",
         "packagesPath": "C:\\Users\\Igal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Igal\\Desktop\\FileManager\\FileManager\\obj\\",
+        "outputPath": "C:\\Users\\Igal\\Desktop\\GeekBrains C# Faculty\\FileManager\\FileManager\\FileManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Markdown": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[5.0.0, )"
