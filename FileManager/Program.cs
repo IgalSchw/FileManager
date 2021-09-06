@@ -20,7 +20,6 @@ namespace FileManager
             CTRL_LOGOFF_EVENT = 5,
             CTRL_SHUTDOWN_EVENT = 6
         }
-
         private static bool Handler(CtrlType signal)
         {
             switch (signal)
@@ -131,9 +130,6 @@ namespace FileManager
         #endregion
 
 
-
-
-
         #region Load Settings
         private static void LoadAppSettings()
         {
@@ -178,6 +174,5 @@ namespace FileManager
             }
         }
         #endregion
-
     }
 }
