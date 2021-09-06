@@ -14,7 +14,18 @@ In addition when you download you can go to this path **_\FileManager\FileManage
 This will pass arguments to progrm by default D:\ drive (not necceseray the programm can find default drive).
 4) When you exit from the program the program will be save <ins>last path and paging</ins>.
 
-###Main Screen
+### Main Screen
 
 ![Main Screen](https://user-images.githubusercontent.com/47335561/132255028-2ee24cd2-de37-4571-a05f-553263f54bb3.PNG)
 
+### File attributes
+
+![filesofcatalog](https://user-images.githubusercontent.com/47335561/132255188-1ba57999-6f35-475e-bb4f-6449272292fe.PNG)
+
+### Commands
+
+![Commands](https://user-images.githubusercontent.com/47335561/132255199-b0be9744-3e0f-423f-861a-56567ed897af.PNG)
+
+
+
+# Enjoy ;)
